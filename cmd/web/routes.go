@@ -7,6 +7,7 @@ import (
 	"github.com/mrpuurple/GoChat.git/internal/handlers"
 )
 
+// routes defines the application routes
 func routes() http.Handler {
 	mux := pat.New()
 

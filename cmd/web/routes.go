@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/bmizerany/pat"
-	"github.com/mrpuurple/go_chat/internal/handlers"
+	"github.com/mrpuurple/GoChat.git/internal/handlers"
 )
 
 func routes() http.Handler {

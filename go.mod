@@ -1,4 +1,4 @@
-module github.com/mrpuurple/go_chat
+module github.com/mrpuurple/GoChat.git
 
 go 1.20
 

@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mrpuurple/go_chat/internal/handlers"
+	"github.com/mrpuurple/GoChat.git/internal/handlers"
 )
 
 func main() {
